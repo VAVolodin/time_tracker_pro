@@ -14,7 +14,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/yourcompany/timetracker-pro.git
+git clone https://github.com/VAVolodin/timetracker-pro.git
 cd timetracker-pro
 
 # Установка зависимостей

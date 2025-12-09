@@ -1,0 +1,18 @@
+# Основные зависимости
+pystray>=0.19.0
+Pillow>=9.0.0
+selenium>=4.0.0
+webdriver-manager>=3.8.0
+pydantic>=1.10.0
+python-dotenv>=0.21.0
+pycryptodome>=3.17.0
+schedule>=1.2.0
+typing-extensions>=4.5.0
+
+# Логирование
+structlog>=23.1.0
+colorlog>=6.7.0
+
+# GUI
+customtkinter>=5.2.0
+ttkthemes>=3.2.0
